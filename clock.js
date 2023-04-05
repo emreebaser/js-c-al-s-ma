@@ -12,3 +12,4 @@ function showTime(){
     ${days[date.getDay()]}
     `  
 }
+setInterval(showTime,1000)
