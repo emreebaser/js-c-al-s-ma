@@ -1,1 +1,1 @@
-JavaScript eğitimimde anlık saat ve karşılama ekranı 
+JavaScript eğitimimde anlık saat ve karşılama ekranı ( www.patika.dev ) 
